@@ -1,2 +1,2 @@
 # Machine-Learning-
-This repo contains all of my Machine Learning projects
+This repo contains a Machine Learning project
